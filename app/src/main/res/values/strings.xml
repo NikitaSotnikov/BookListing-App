@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_button_name">Search</string>
+    <string name="no_connection">No internet connection.</string>
+    <string name="no_books">No books found.</string>
+    <string name="hint_text">Input Author or Title of book</string>
+</resources>
